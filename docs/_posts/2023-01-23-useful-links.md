@@ -34,12 +34,12 @@ This is going to be a page dedicated to an organized list useful links; some of 
   - Haven't taken this one, but I watched the intro and it seems to have a good amount of stuff on it. It's (also) 3 1/2 hours of free content!
 
 
-[Adobe Fonts]: https://fonts.adobe.com/
-[Google Fonts]: https://fonts.google.com/
-[Envato Elements]: https://elements.envato.com/
-[Behance]: https://behance.net/
-[Adobe Tutorials]: https://helpx.adobe.com/creative-cloud/tutorials-explore.html
-[Envato Tuts+ Illustrator Tutorial on YouTube]: https://www.youtube.com/watch?v=Ib8UBwu3yGA
-[Envate Tuts+ Photoshop Tutorial on YouTube]: https://www.youtube.com/watch?v=IyR_uYsRdPs
-[Coolors.co]: https://coolors.co/generate/
-[Pexels (Free Photography Assets)]: https://pexels.com/
+[Adobe Fonts]: (https://fonts.adobe.com/){:rel="noopener noreferrer"}{:target="_blank"}
+[Google Fonts]: (https://fonts.google.com/){:rel="noopener noreferrer"}{:target="_blank"}
+[Envato Elements]: (https://elements.envato.com/){:rel="noopener noreferrer"}{:target="_blank"}
+[Behance]: (https://behance.net/){:rel="noopener noreferrer"}{:target="_blank"}
+[Adobe Tutorials]: (https://helpx.adobe.com/creative-cloud/tutorials-explore.html){:rel="noopener noreferrer"}{:target="_blank"}
+[Envato Tuts+ Illustrator Tutorial on YouTube]: (https://www.youtube.com/watch?v=Ib8UBwu3yGA){:rel="noopener noreferrer"}{:target="_blank"}
+[Envato Tuts+ Photoshop Tutorial on YouTube]: (https://www.youtube.com/watch?v=IyR_uYsRdPs){:rel="noopener noreferrer"}{:target="_blank"}
+[Coolors.co]: (https://coolors.co/generate/){:rel="noopener noreferrer"}{:target="_blank"}
+[Pexels (Free Photography Assets)]: (https://pexels.com/){:rel="noopener noreferrer"}{:target="_blank"}
