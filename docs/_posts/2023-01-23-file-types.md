@@ -1,7 +1,7 @@
 ---
 title: All About File Types
 description: This post is going to cover most of what you need to know about file types, what they mean, and when to use which type.
-date: 2023-01-23 16:60:00 -0500
+date: 2023-01-23 16:50:00 -0500
 categories: reference
 ---
 
