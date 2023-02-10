@@ -10,12 +10,13 @@ categories: reference
 We're going to cover a few different file types, and when to use what to make sure your designs look their best in every environment. A lot of the web apps available online don't typically inform their users what file types they need for certain design jobs, and it can and often does lead to some pretty crusty results in the final designs.
 
 Our main topics will include:
-- [Vector vs Raster](## Vector vs Raster)
-- [File Names](## File Names)
-- [Print vs Web](## Print vs Web)
-- Adobe Files
-- Handling Uncommon File Types
-- Converting File Types
+- [Howdy Howdy](#howdy-howdy)
+	- [Vector vs Raster](#vector-vs-raster)
+		- [Vector](#vector)
+	- [File Types](#file-types)
+	- [Print vs Web](#print-vs-web)
+		- [When Your Design Goes to Print](#when-your-design-goes-to-print)
+		- [When Your Design Goes Online](#when-your-design-goes-online)
 
 ## Vector vs Raster
 
@@ -48,6 +49,24 @@ Examples: .jpg, .png, .gif
 
 .PNG
 : Short for "**Portable Network Graphics**". This was created as a replacement for GIFs. It dropped support for animations in favor of improved compression capabilities. It still supports transparency, so it's generally going to be a bigger file than a .JPG, but it will generally also scale a lot better (on the web) than a .JPG will.
+
+.AI
+: Short for "Adobe Illustrator", which is a vector-based file format. Vector files are made up of mathematical equations, making them infinitely scalable without losing quality. This makes AI files great for logos, illustrations, and icons.
+
+.PSD
+: Short for "Photoshop Document". This is a raster-based file format, making it great for photo editing and manipulation. Raster files are made up of pixels, making them limited in scalability and prone to losing quality when enlarged.
+
+.PDF
+: Short for "Portable Document Format". This file format is versatile, as it can be both vector and raster-based, making it great for printing and sharing designs. PDF files can contain a variety of information, including text, images, and vector graphics.
+
+.EPS
+: Short for "Encapsulated PostScript". This is a vector-based file format that is commonly used for printing and creating logos, illustrations, and icons. EPS files can be opened and edited in Adobe Illustrator, as well as many other vector graphics editors.
+
+.SVG
+: Short for "Scalable Vector Graphics". This is a vector-based file format that is optimized for the web. SVG files are scalable and can be easily edited and resized, making them great for logos, illustrations, and icons that need to be used on the web.
+
+.TIFF
+: Short for "Tagged Image File Format". This is a raster-based file format that is commonly used for printing high-quality images, such as photos and graphics. TIFF files are typically larger in size compared to JPG or PNG files, but they are also higher in quality and can be easily edited and manipulated.
 
 ## Print vs Web
 ---
