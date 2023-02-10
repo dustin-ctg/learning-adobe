@@ -1,6 +1,7 @@
 ---
 ---
 
+
 @import "minima";
 @import url("https://use.typekit.net/tnv7tsi.css");
 
@@ -16,25 +17,25 @@ $red: #ffad87;
 $green: #62cc8f;
 
 h1, h2, h5 {
-  font-family: "bree-serif", sans-serif;
-  font-weight: $font-thin;
-  color: $black;
-}
+  font-family: "bree-serif", sans-serif !important;
+  font-weight: $font-thin !important;
+  color: $black !important;
+ }
 
 h3, h4, h6 {
-  font-family: "dinosaur", sans-serif;
-  font-weight: $font-mid;
-  color: $gold;
-  text-transform: uppercase;
-}
+  font-family: "dinosaur", sans-serif !important;
+  font-weight: $font-mid !important;
+  color: $gold !important;
+  text-transform: uppercase !important;
+ }
 
 body {
-  font-family: "bree-serif", sans-serif;
-  font-weight: $font-thin;
-  color: $black;
-}
+  font-family: "bree-serif", sans-serif !important;
+  font-weight: $font-thin !important;
+  color: $black !important;
+ }
 
-a {
+a  {
   color: $blue;
   &:visited {
 	color: $grey;
