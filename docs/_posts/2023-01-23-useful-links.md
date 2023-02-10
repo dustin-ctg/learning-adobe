@@ -10,6 +10,7 @@ This is going to be a page dedicated to an organized list useful links; some of 
 
 
 ## Design Resources
+- [Chat GPT](https://chat.openai.com/)
 - [Adobe Fonts](https://fonts.adobe.com/){:rel="noopener noreferrer"}{:target="_blank"}
   - A pile of fonts that you can use with Adobe, that you can't really get anywhere else without spending a fortune.
 - [Google Fonts](https://fonts.google.com/){:rel="noopener noreferrer"}{:target="_blank"}
